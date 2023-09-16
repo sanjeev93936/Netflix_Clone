@@ -90,21 +90,24 @@ Netflix clone made with advanced react, redux & firebase which uses redux thunk 
 
 ---
  ##  Screenshots 
+
  ### This is the Authentication Section
 ### Register
-![Screenshot 2023-09-16 223125](https://github.com/sanjeev93936/Blog_Application/assets/108318474/f8899220-f80f-4bf4-b4a0-dcc2ea72217a)
+![Screenshot 2023-09-16 231216](https://github.com/sanjeev93936/Netflix_Clone/assets/108318474/6c4f3f35-70f8-4bd0-98e7-07732bda020c)
+![Screenshot 2023-09-16 231521](https://github.com/sanjeev93936/Netflix_Clone/assets/108318474/4e0343a4-aa6d-4687-a4e3-fbdc2de17109)
 ### Login
-![Screenshot 2023-09-16 223149](https://github.com/sanjeev93936/Blog_Application/assets/108318474/b82b437a-8549-4a9c-9818-95052eda35a4)
+![Screenshot 2023-09-16 231700](https://github.com/sanjeev93936/Netflix_Clone/assets/108318474/70b7723a-b62e-413a-adfe-f758519eaadb)
 ### This is the Home Section
-![Screenshot 2023-09-16 223213](https://github.com/sanjeev93936/Blog_Application/assets/108318474/4512e6b7-b5dc-4bbf-8a4e-1a655449a43a)
-![Screenshot 2023-09-16 223514](https://github.com/sanjeev93936/Blog_Application/assets/108318474/b500055f-0141-48bd-bf92-5eb476040a19)
+![Screenshot 2023-09-16 231727](https://github.com/sanjeev93936/Netflix_Clone/assets/108318474/ba6a451a-aa3e-4add-86a2-18d106643690)
+![Screenshot 2023-09-16 231859](https://github.com/sanjeev93936/Netflix_Clone/assets/108318474/427aef82-eded-40c3-a3fd-5bbf42e2951a)
 ### This is the Create new Post Section
-![Screenshot 2023-09-16 223257](https://github.com/sanjeev93936/Blog_Application/assets/108318474/c998fc06-3e8d-406c-bc7b-ab739b6cb09b)
-### This is the   Post Section
-![Screenshot 2023-09-16 223420](https://github.com/sanjeev93936/Blog_Application/assets/108318474/900aadc2-fd03-4948-943c-75831553f618)
-### This is the Update Post Section
-![Screenshot 2023-09-16 223438](https://github.com/sanjeev93936/Blog_Application/assets/108318474/9df841a3-3740-421b-9317-b2bbdeaa4889)
-![Screenshot 2023-09-16 223451](https://github.com/sanjeev93936/Blog_Application/assets/108318474/7de6cfd1-ed3b-484b-8e05-984ee96f6c30)
+![Screenshot 2023-09-16 231921](https://github.com/sanjeev93936/Netflix_Clone/assets/108318474/b969c13a-88f0-4a9d-89c6-492ccbe9a6cb)
+### This is the Create new Post Section
+![Screenshot 2023-09-16 231942](https://github.com/sanjeev93936/Netflix_Clone/assets/108318474/27e5f549-6d0c-4c5f-b8f4-099a406db7fc)
+### This is the Create new Post Section
+![Screenshot 2023-09-16 232007](https://github.com/sanjeev93936/Netflix_Clone/assets/108318474/ac0938d2-884d-4825-bb75-0052138b803f)
+### This is the Create new Post Section
+![Screenshot 2023-09-16 232045](https://github.com/sanjeev93936/Netflix_Clone/assets/108318474/ab893bed-530e-41a3-ad4b-b3284ab2c4e8)
 
 
 ## Author
