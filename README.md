@@ -99,14 +99,15 @@ Netflix clone made with advanced react, redux & firebase which uses redux thunk 
 ![Screenshot 2023-09-16 231700](https://github.com/sanjeev93936/Netflix_Clone/assets/108318474/70b7723a-b62e-413a-adfe-f758519eaadb)
 ### This is the Home Section
 ![Screenshot 2023-09-16 231727](https://github.com/sanjeev93936/Netflix_Clone/assets/108318474/ba6a451a-aa3e-4add-86a2-18d106643690)
-![Screenshot 2023-09-16 231859](https://github.com/sanjeev93936/Netflix_Clone/assets/108318474/427aef82-eded-40c3-a3fd-5bbf42e2951a)
-### This is the Create new Post Section
 ![Screenshot 2023-09-16 231921](https://github.com/sanjeev93936/Netflix_Clone/assets/108318474/b969c13a-88f0-4a9d-89c6-492ccbe9a6cb)
-### This is the Create new Post Section
+
+### This is the Player Section
+![Screenshot 2023-09-16 231859](https://github.com/sanjeev93936/Netflix_Clone/assets/108318474/427aef82-eded-40c3-a3fd-5bbf42e2951a)
+### This is the TV shows Section
 ![Screenshot 2023-09-16 231942](https://github.com/sanjeev93936/Netflix_Clone/assets/108318474/27e5f549-6d0c-4c5f-b8f4-099a406db7fc)
-### This is the Create new Post Section
+### This is the  Movies Section
 ![Screenshot 2023-09-16 232007](https://github.com/sanjeev93936/Netflix_Clone/assets/108318474/ac0938d2-884d-4825-bb75-0052138b803f)
-### This is the Create new Post Section
+### This is the My list Section
 ![Screenshot 2023-09-16 232045](https://github.com/sanjeev93936/Netflix_Clone/assets/108318474/ab893bed-530e-41a3-ad4b-b3284ab2c4e8)
 
 
