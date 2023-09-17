@@ -58,7 +58,7 @@ $ npm start (to start the backend)
   - State management and redux thunk for asynchronous api calls
 - [Firebase](https://firebase.google.com/) 
   - Backend and database with firestore for users
-- [TMDB API](https://www.themoviedb.org/?language=en-US)
+- [TMDB API](https://developer.themoviedb.org/docs/getting-started)
   - Movie service API
 - [React Router](https://reacttraining.com/react-router/web/guides/quick-start) 
   - Complex and dynamic route generation 
